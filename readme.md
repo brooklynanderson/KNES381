@@ -68,5 +68,9 @@ This allows to filter the data and instantly update the chart.
 
 ![Dashboard](dashboard.png)
 
+## Training Load Calculator
+
+An additional interactive Excel component was created to allow users to calculate training load. The calculator automatically generates a training load value and classifies it as low, moderate, or high. This extends the main analysis by showing how the model could be used as a practical tool in an athlete monitoring setting.
+
 ## Conclusion
 This project demonstrates how simple Excel tools can be used to monitor athlete workload and recovery. The simplified calculations give insight into training patterns and potential fatigue trends.
