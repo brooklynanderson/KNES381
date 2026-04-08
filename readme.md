@@ -1,8 +1,5 @@
 # Athlete Performance & Training Analysis
-
-An athlete monitoring system designed to evaluate training load, recovery, and performance using Excel tools and video analysis.
-
-![Dashboard](dashboard.png)
+A practical athlete monitoring system designed to support training decision-making through training load analysis, performance tracking, and movement assessment.
 
 ---
 
