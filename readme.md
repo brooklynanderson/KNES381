@@ -27,6 +27,17 @@ The dataset includes:
   - Moderate (300-600)
   - High (>600)
  
+## Excel System Functionality
+
+The excel workbook was designed to update automatically based on the input data.
+- Training Load is calculated using a formula that multiplies duration and RPE
+- Load Category is generated using an IF function to categorize sessions as low, moderate, or high
+- A PivotTable is used to summarize average values by session type
+- A PivotChart provides a visual of the data
+- Slicers allows interactive filtering by athlete and session type
+
+This setup allows for exploration of how training load, fatigue, and injury risk change across different training conditions.
+ 
 ## Data Visualization
 A PivotTable and PivotChart were created to analyze:
 
