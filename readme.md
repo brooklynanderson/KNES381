@@ -60,9 +60,6 @@ This allows to filter the data and instantly update the chart.
 - Higher training loads were generally associated with increased fatigue and injury risk
 - Athlete 2 tended to experience slightly higher fatigue and injury risk values
 
-## Conclusion
-This project demonstrates how simple Excel tools can be used to monitor athlete workload and recovery. The simplified calculations give insight into training patterns and potential fatigue trends.
-
 ## Excel File
 
 [Download the Excel Project](trainingloadanalysis.xlsx)
@@ -71,3 +68,5 @@ This project demonstrates how simple Excel tools can be used to monitor athlete 
 
 ![Dashboard](dashboard.png)
 
+## Conclusion
+This project demonstrates how simple Excel tools can be used to monitor athlete workload and recovery. The simplified calculations give insight into training patterns and potential fatigue trends.
