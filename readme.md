@@ -14,20 +14,20 @@ This value is expressed in arbitrary units (AU), meaning it is used as a relativ
 The dataset includes:
 - Athlete (Athlete 1 and Athlete 2)
 - Session Type (Skate, Lift, Game, Conditioning, Recovery)
-- Duration (minutes)
+- Duration (Minutes)
 - RPE (Rate of Perceived Exertion)
-- Recovery (hours)
+- Recovery (Hours)
 - Fatigue Level (%)
 - Injury Risk (%)
 
 ## Calculations
-- **Training Load** was callculated using duration and RPE
+- **Training Load** was calculated using duration and RPE
 - **Load Category** was created using an IF function:
   - Low (<300)
   - Moderate (300-600)
   - High (>600)
 
- ## Key Findings
+## Key Findings
 - Game and conditioning sessions produced the highest training loads
 - Recovery sessions showed the lowest workload and fatigue levels
 - Higher training loads were generally associated with increased fatigue and injury risk
