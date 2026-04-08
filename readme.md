@@ -58,4 +58,5 @@ This project demonstrates how simple Excel tools can be used to monitor athlete 
 
 ## Dashboard Preview
 
-(Image coming soon)
+![Dashboard](dashboard.png)
+
