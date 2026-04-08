@@ -26,7 +26,13 @@ The dataset includes:
   - Low (<300)
   - Moderate (300-600)
   - High (>600)
- 
+
+ ## Key Findings
+- Game and conditioning sessions produced the highest training loads
+- Recovery sessions showed the lowest workload and fatigue levels
+- Higher training loads were generally associated with increased fatigue and injury risk
+- Athlete 2 tended to experience slightly higher fatigue and injury risk values
+  
 ## Excel System Functionality
 
 The excel workbook was designed to update automatically based on the input data.
@@ -53,12 +59,6 @@ Slicers were added for:
 - Session Type
 
 This allows to filter the data and instantly update the chart.
-
-## Key Findings
-- Game and conditioning sessions produced the highest training loads
-- Recovery sessions showed the lowest workload and fatigue levels
-- Higher training loads were generally associated with increased fatigue and injury risk
-- Athlete 2 tended to experience slightly higher fatigue and injury risk values
 
 ## Excel File
 
