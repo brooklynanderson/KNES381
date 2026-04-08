@@ -52,8 +52,8 @@ This allows to filter the data and instantly update the chart.
 ## Conclusion
 This project demonstrates how simple Excel tools can be used to monitor athlete workload and recovery. The simplified calculations give insight into training patterns and potential fatigue trends.
 
+## Excel File
 
-- ## Excel File
-[Download the Excel Project](training-load-analysis.xlsx)
+[Download the Excel Project](trainingloadanalysis.xlsx)
 
 
