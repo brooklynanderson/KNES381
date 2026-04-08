@@ -74,7 +74,7 @@ An additional interactive Excel component was created to allow users to calculat
 
 ### Calculator Preview
 
-![Calculator](calculator)
+![Calculator](calculator.png)
 
 ## Conclusion
 This project demonstrates how simple Excel tools can be used to monitor athlete workload and recovery. The simplified calculations give insight into training patterns and potential fatigue trends.
