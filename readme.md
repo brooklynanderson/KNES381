@@ -99,7 +99,22 @@ An interactive calculator allows users to estimate training load for new session
 
 ---
 
-## Video Analysis
+## Dartfish Movement Analysis
+Dartfish provides visual analysis of how movement mechanics contribute to athlete performance.
+
+### Example: Breakdown of Sprint Acceleration
+
+#### Phase 1: Set up
+
+This phase shows..
+
+#### Phase 2: Force Production
+
+This phase shows...
+
+#### Phase 3
+
+This phase shows...
 
 Coming soon...
 
