@@ -1,17 +1,54 @@
-# Athlete Training Load Analyzer
+# Athlete Performance & Training Analysis
 
-## Overview
-This project analyzes training load and recovery patterns in athletes using Excel. The goal was to create a simple system that tracks workload, fatigue, and injury risk across different types of training sessions.
+An athlete monitoring system designed to evaluate training load, recovery, and performance using Excel tools and video analysis.
 
-## What is Training Load?
+![Dashboard](dashboard.png)
+
+---
+
+## Heading
+
+This athlete monitoring system can be used by coaches and athletes to track workload, performance and recovery.
+- Training load analysis using duration and RPE
+- Fatigue and injury risk monitoring
+- Interactive performance dashboard
+- Training load calculator for session planning
+- Movement analysis to assess ...
+
+---
+
+## Who Can Use This?
+
+This system is designed for:
+- Coaches monitoring athlete's workload
+- Athletes tracking training intensity
+- S&C professionals
+- Sport Science Researchers looking at performance analysis
+
+---
+
+## Performance Metrics
+
+### Training Load (AU)
 Training load was calculated using the session RPE method:
 
 **Training Load = Duration X RPE**
 
 This value is expressed in arbitrary units (AU), meaning it is used as a relative measure of workload rather than a direct physical quantity.
 
-## Dataset
+### Fatigue Level (%)
+Used to estimate recovery and readiness
+### Injury Risk (%)
+Used to identify potential increases in risk with higher workloads
+### Load Category
+Categorizes training load as low, moderate or high.
+
+---
+
+## Athlete Data Tracking
+
 The dataset includes:
+
 - Athlete (Athlete 1 and Athlete 2)
 - Session Type (Skate, Lift, Game, Conditioning, Recovery)
 - Duration (Minutes)
@@ -19,62 +56,69 @@ The dataset includes:
 - Recovery (Hours)
 - Fatigue Level (%)
 - Injury Risk (%)
+- Load Category (Low, Moderate, High)
 
-## Calculations
-- **Training Load** was calculated using duration and RPE
-- **Load Category** was created using an IF function:
+---
+
+## Athlete Monitoring System
+
+The excel workbook functions as a dynamic athlete monitoring system:
+
+- Training Load is calculated using a formula that multiplies duration and RPE
+- Load Category was created using an IF function:
   - Low (<300)
   - Moderate (300-600)
   - High (>600)
-
-## Key Findings
-- Game and conditioning sessions produced the highest training loads
-- Recovery sessions showed the lowest workload and fatigue levels
-- Higher training loads were generally associated with increased fatigue and injury risk
-- Athlete 2 tended to experience slightly higher fatigue and injury risk values
-  
-## Excel System Functionality
-
-The excel workbook was designed to update automatically based on the input data.
-- Training Load is calculated using a formula that multiplies duration and RPE
-- Load Category is generated using an IF function to categorize sessions as low, moderate, or high
-- A PivotTable is used to summarize average values by session type
-- A PivotChart provides a visual of the data
+- A PivotTable summarizes performance data
+- A PivotChart visualizes trends
 - Slicers allows interactive filtering by athlete and session type
 
-This setup allows for exploration of how training load, fatigue, and injury risk change across different training conditions.
- 
-## Data Visualization
-A PivotTable and PivotChart were created to analyze:
+This allows for quick assessment of how workload impacts fatigue and injury risk.
 
+---
+
+## Performance Dashboard
+
+The dashbord provides a visual summary of:
 - Average Training Load (AU)
 - Average Fatigue Level (%)
 - Average Injury Risk (%)
 
-These values were grouped by session type.
-
-## Interactive Features
-Slicers were added for:
-- Athlete
-- Session Type
-
-This allows to filter the data and instantly update the chart.
-
-## Excel File
-
-[Download the Excel Project](trainingloadanalysis.xlsx)
-
-## Dashboard Preview
+These values update dynamically based on selected filters.
 
 ![Dashboard](dashboard.png)
 
+---
+
 ## Training Load Calculator
 
-An additional interactive Excel component was created to allow users to calculate training load. The calculator automatically generates a training load value and classifies it as low, moderate, or high. This extends the main analysis by showing how the model could be used as a practical tool in an athlete monitoring setting.
+An interactive calculator allows users to estimate training load for new sessions.
+- Input: duration and RPE
+- Output: training load and load category
 
 ### Calculator Preview
 
 ![Calculator](calculator.png)
+
+---
+
+## Video Analysis
+
+Coming soon...
+
+---
+
+## Key Insights
+- Game and conditioning sessions produce the highest training loads
+- Recovery sessions show the lowest workload and fatigue levels
+- Higher training loads are associated with increased fatigue and injury
+
+---
+
+## Resources
+
+[Download the Excel Project](trainingloadanalysis.xlsx)
+
 
 ## Conclusion
 This project demonstrates how simple Excel tools can be used to monitor athlete workload and recovery. The simplified calculations give insight into training patterns and potential fatigue trends.
