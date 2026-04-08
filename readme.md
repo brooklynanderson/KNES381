@@ -56,4 +56,6 @@ This project demonstrates how simple Excel tools can be used to monitor athlete 
 
 [Download the Excel Project](trainingloadanalysis.xlsx)
 
+## Dashboard Preview
 
+(Image coming soon)
