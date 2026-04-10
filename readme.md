@@ -3,7 +3,7 @@ A practical athlete monitoring system designed to support training decision-maki
 
 ---
 
-## Heading
+## What's Included
 
 This athlete monitoring system can be used by coaches and athletes to track workload, performance and recovery.
 - Training load analysis using duration and RPE
