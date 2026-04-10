@@ -132,5 +132,6 @@ Coming soon...
 [Download the Excel Project](trainingloadanalysis.xlsx)
 
 
-## Conclusion
-This project demonstrates how simple Excel tools can be used to monitor athlete workload and recovery. The simplified calculations give insight into training patterns and potential fatigue trends.
+### About This Project
+
+This project was developed as part of the UofC KNES381 course and demonstrates practical skills in athlete monitoring, data analysis, and performance assessment using Excel and Dartfish.
