@@ -8,7 +8,7 @@ A practical athlete monitoring system designed to support training decision-maki
 - [Intended Users](#intended-users)
 - [Performance Metrics](#performance-metrics)
 - [System Functionality](#system-functionality)
-- [What Data is Tracked?](#what-data-is-tracked?)
+- [Athlete Data Tracking](#athlete-data-tracking)
 - [Performance Dashboard](#performance-dashboard)
 - [Training Load Calculator](#training-load-calculator)
 - [Dartfish Movement Analysis](#dartfish-movement-analysis)
@@ -71,7 +71,7 @@ This allows for quick assessment of how workload impacts fatigue and injury risk
 
 ---
 
-## What Data is Tracked?
+## Athlete Data Tracking
 
 The dataset includes:
 
