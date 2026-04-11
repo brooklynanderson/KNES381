@@ -1,4 +1,4 @@
-# Athlete Performance & Training Analysis
+# Athlete Performance Monitoring System
 A practical athlete monitoring system designed to support training decision-making through training load analysis, performance tracking, and movement assessment.
 
 ---
@@ -10,7 +10,7 @@ This athlete monitoring system can be used by coaches and athletes to track work
 - Fatigue and injury risk monitoring
 - Interactive performance dashboard
 - Training load calculator for session planning
-- Movement analysis to assess ...
+- Movement analysis to assess athlete's functionality and ensure proper form
 
 ---
 
