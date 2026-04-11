@@ -81,7 +81,7 @@ The dashbord can provide a visual summary of:
 - Average Fatigue Level (%)
 - Average Injury Risk (%)
 
-Sneak peak of the dashboard:
+### Dashboard Preview
 
 ![Dashboard](dashboard.png)
 
@@ -97,7 +97,9 @@ An interactive calculator allows users to estimate training load for new session
 
 ### Calculator Preview
 
-![Calculator](calculator.png)
+![Calculator](TrainingLoadCalculator.png)
+
+The calculator above shows how training load is generated from session inputs. It allows users to estimate workload and classify session intensity based on duration and RPE.
 
 ---
 
