@@ -102,6 +102,7 @@ The calculator above shows how training load is generated from session inputs. I
 ---
 
 ## Dartfish Movement Analysis
+While the Excel system tracks workload and performance data, movement analysis provides additional insight into how technique influences these outcomes.
 Dartfish provides visual analysis of movement, allowing athletes to assess technique, correct errors, and improve performance. It can be applied to a variety of movements while helping relate movement mechanics to training load, fatigue, and injury risk.
 
 ### Example: Deadlift Analysis
