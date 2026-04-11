@@ -2,6 +2,17 @@
 A practical athlete monitoring system designed to support training decision-making through training load analysis, performance tracking, and movement assessment.
 
 ---
+## Navigation
+
+- [System Overview](#system-overview)
+- [Intended Users](#intended-users)
+- [Performance Metrics](#performance-metrics)
+- [System Functionality](#system-functionality)
+- [What Data is Tracked?](#what-data-is-tracked?)
+- [Performance Dashboard](#performance-dashboard)
+- [Training Load Calculator](#training-load-calculator)
+- [Dartfish Movement Analysis](#dartfish-movement-analysis)
+- [Resources](#resources)
 
 ## System Overview
 
