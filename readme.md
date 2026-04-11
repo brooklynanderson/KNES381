@@ -1,4 +1,4 @@
-# Athlete Performance Monitoring System
+# Athlete Monitoring Dashboard and Movement Analysis
 A practical athlete monitoring system designed to support training decision-making through training load analysis, performance tracking, and movement assessment.
 
 ---
@@ -15,17 +15,17 @@ This athlete monitoring system can be used by coaches and athletes to track work
 - Fatigue and injury risk monitoring
 - Interactive performance dashboard
 - Training load calculator for session planning
-- Movement analysis to assess athlete's functionality and ensure proper form
+- Movement analysis to assess movement quality and support technique correction
 
 ---
 
 ## Intended Users
 
 This system is designed for:
-- Coaches monitoring athlete's workload
+- Coaches monitoring athlete workload
 - Athletes tracking training intensity
 - S&C professionals
-- Sport Science Researchers looking at performance analysis
+- Sport Science Researchers interested in performance analysis
 
 ---
 
@@ -46,22 +46,6 @@ Used to identify potential increases in risk with higher workloads
 Categorizes training load as low, moderate or high.
 
 ---
-## System Functionality
-
-The Excel workbook functions as a dynamic athlete monitoring system:
-
-- Training Load is calculated using a formula that multiplies duration and RPE
-- Load Category was created using an IF function:
-  - Low (<300)
-  - Moderate (300-600)
-  - High (>600)
-- A PivotTable summarizes performance data
-- A PivotChart visualizes trends
-- Slicers allows interactive filtering by athlete and session type
-
-This allows for quick assessment of how workload impacts fatigue and injury risk.
-
----
 
 ## Athlete Data Tracking
 
@@ -76,6 +60,24 @@ The dataset includes:
 - Injury Risk (%)
 - Load Category (Low, Moderate, High)
 
+---
+
+## System Functionality
+
+The Excel workbook functions as a dynamic athlete monitoring system:
+
+- Training Load is calculated using a formula that multiplies duration and RPE
+- Load Category was created using an IF function:
+  - Low (<300)
+  - Moderate (300-600)
+  - High (>600)
+- A PivotTable summarizes performance data
+- A PivotChart visualizes trends
+- Slicers allow interactive filtering by athlete and session type
+
+This allows for quick assessment of how workload impacts fatigue and injury risk.
+
+---
 
 ## Performance Dashboard
 
@@ -115,12 +117,14 @@ Dartfish provides visual analysis of movement, allowing athletes to assess techn
 #### Set Up Analysis
 
 ![Deadlift Setup](videoframe1.png)
+*Figure 1. Steup position showing joint angle and starting posture.*
 
 In the setup phase, the athlete demonstrates a hip hinge position with a neutral spine and appropriate knee angle of approximately 55°. This position allows for effective force production while maintaining proper alignment. Proper setup is critical for reducing injury risk and preparing the body for high-intensity effort.
 
 #### Bar Path Analysis
 
 ![Deadlift Lift](videoframe2.png)
+*Figure 2. Bar path analysis illustrating movement efficiency during force production.*
 
 During the lifting phase, the athlete generates force through coordinated extension at the hip and knee. The bar path remains vertical and close to the body, which improves efficiency and reduces unnecessary strain. This phase requires high muscular effort and contributes to increased RPE, leading to higher training load values.
 
@@ -130,6 +134,7 @@ During the lifting phase, the athlete generates force through coordinated extens
 
 [Download the Excel Project](trainingloadanalysis.xlsx)
 
+---
 
 #### About This Project
 
