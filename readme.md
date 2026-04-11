@@ -41,7 +41,7 @@ Used to identify potential increases in risk with higher workloads
 Categorizes training load as low, moderate or high.
 
 ---
-## Athlete Monitoring System
+## The System
 
 The Excel workbook functions as a dynamic athlete monitoring system:
 
