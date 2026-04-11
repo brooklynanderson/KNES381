@@ -15,7 +15,7 @@ A practical athlete monitoring system designed to support training decision-maki
 | Recovery Monitoring | Identifies fatigue and injury risk trends |
 | Performance Dashboard | Summarizes athlete condition visually |
 | Training Load Calculator | Estimates session demand before training |
-| Dartfish Movement Analysis | Assesses movement quality and intensity |
+| Dartfish Movement Analysis | Assesses movement quality |
 
 ---
 
