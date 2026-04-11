@@ -24,7 +24,7 @@ This system is designed for:
 
 ---
 
-## What Performance Metrics Are Being Measured?
+## Performance Metrics
 
 ### Training Load (AU)
 Training load was calculated using the session RPE method:
