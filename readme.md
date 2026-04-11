@@ -14,6 +14,8 @@ A practical athlete monitoring system designed to support training decision-maki
 - [Dartfish Movement Analysis](#dartfish-movement-analysis)
 - [Resources](#resources)
 
+---
+
 ## System Overview
 
 This athlete monitoring system can be used by coaches and athletes to track workload, performance and recovery.
