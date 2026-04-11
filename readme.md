@@ -107,13 +107,13 @@ Dartfish provides visual analysis of movement, allowing athletes to assess techn
 
 ### Example: Deadlift Analysis
 
-#### Phase 1: Set up
+#### Set Up Analysis
 
 ![Deadlift Setup](videoframe1.png)
 
 In the setup phase, the athlete demonstrates a hip hinge position with a neutral spine and appropriate knee angle of approximately 55°. This position allows for effective force production while maintaining proper alignment. Proper setup is critical for reducing injury risk and preparing the body for high-intensity effort.
 
-#### Phase 2: Force Production
+#### Bar Path Analysis
 
 ![Deadlift Lift](videoframe2.png)
 
