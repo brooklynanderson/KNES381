@@ -106,7 +106,7 @@ An interactive calculator allows users to estimate training load for new session
 ### Calculator Preview
 
 ![Calculator](TrainingLoadCalculator.png)
-*Figure 2. Training load calculator used to estimate workload from session duration and RPE*
+*Figure 2. Training load calculator used to estimate workload from session duration and RPE.*
 
 The calculator above shows how training load is generated from session inputs. It allows users to estimate workload and classify session intensity based on duration and RPE.
 
