@@ -9,12 +9,13 @@ A practical athlete monitoring system designed to support training decision-maki
 
 ## System Overview
 
-This athlete monitoring system can be used by coaches and athletes to track workload, performance and recovery.
-- Training load analysis using duration and RPE
-- Fatigue and injury risk monitoring
-- Interactive performance dashboard
-- Training load calculator for session planning
-- Movement analysis to assess movement quality and support technique correction
+| Component | Purpose |
+|---|---|
+| Training Load Analysis | Tracks workload using duration and RPE |
+| Recovery Monitoring | Identifies fatigue and injury risk trends |
+| Performance Dashboard | Summarizes athlete condition visually |
+| Training Load Calculator | Estimates session demand before training |
+| Dartfish Movement Analysis | Assesses movement quality and intensity |
 
 ---
 
@@ -29,6 +30,8 @@ This system is designed for:
 ---
 
 ## Performance Metrics
+
+These metrics provide the foundation for monitoring athlete workload.
 
 ### Training Load (AU)
 Training load was calculated using the session RPE method:
@@ -88,6 +91,7 @@ The dashboard can provide a visual summary of:
 ### Dashboard Preview
 
 ![Dashboard](dashboard.png)
+*Figure 1. Interactive dashboard example displaying average training load by session type between Athlete 1 and Athlete 2.*
 
 The dashboard above is generated from a PivotTable and updates automatically when the data or slicers are changed in the Excel Workbook.
 
@@ -102,6 +106,7 @@ An interactive calculator allows users to estimate training load for new session
 ### Calculator Preview
 
 ![Calculator](TrainingLoadCalculator.png)
+*Figure 2. Training load calculator used to estimate workload from session duration and RPE*
 
 The calculator above shows how training load is generated from session inputs. It allows users to estimate workload and classify session intensity based on duration and RPE.
 
@@ -116,14 +121,14 @@ Dartfish provides visual analysis of movement, allowing athletes to assess techn
 #### Set Up Analysis
 
 ![Deadlift Setup](videoframe1.png)
-*Figure 1. Steup position showing joint angle and starting posture.*
+*Figure 3. Steup position showing joint angle and starting posture.*
 
 In the setup phase, the athlete demonstrates a hip hinge position with a neutral spine and appropriate knee angle of approximately 55°. This position allows for effective force production while maintaining proper alignment. Proper setup is critical for reducing injury risk and preparing the body for high-intensity effort.
 
 #### Bar Path Analysis
 
 ![Deadlift Lift](videoframe2.png)
-*Figure 2. Bar path analysis illustrating movement efficiency during force production.*
+*Figure 4. Bar path analysis illustrating movement efficiency during force production.*
 
 During the lifting phase, the athlete generates force through coordinated extension at the hip and knee. The bar path remains vertical and close to the body, which improves efficiency and reduces unnecessary strain. This phase requires high muscular effort and contributes to increased RPE, leading to higher training load values.
 
