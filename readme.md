@@ -116,9 +116,6 @@ In the setup phase, the athlete demonstrates a hip hinge position with a neutral
 
 #### Phase 2: Force Production
 
-
-This phase shows...
-
 ![Deadlift Lift](videoframe2.png)
 
 During the lifting phase, the athlete generates force through coordinated extension at the hip and knee. The bar path remains vertical and close to the body, which improves efficiency and reduces unnecessary strain. This phase requires high muscular effort and contributes to increased RPE, leading to higher training load values.
