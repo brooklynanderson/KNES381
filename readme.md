@@ -99,10 +99,13 @@ The dashboard can provide a visual summary of:
 - Average Fatigue Level (%)
 - Average Injury Risk (%)
 
-### Dashboard Preview
+<p align="center">
+<img src="dashboard.png" width="600">
+</p>
 
-![Dashboard](dashboard.png)
-*Figure 1. Interactive dashboard example displaying average training load by session type between Athlete 1 and Athlete 2.*
+<p align="center">
+<em>Figure 1. Interactive dashboard example displaying average training load by session type between Athlete 1 and Athlete 2.</em>
+</p>
 
 The dashboard above is generated from a PivotTable and updates automatically when the data or slicers are changed in the Excel Workbook.
 
@@ -114,10 +117,13 @@ An interactive calculator allows users to estimate training load for new session
 - Input: duration and RPE
 - Output: training load and load category
 
-### Calculator Preview
+<p align="center">
+<img src="TrainingLoadCalculator.png" width="500">
+</p>
 
-![Calculator](TrainingLoadCalculator.png)
-*Figure 2. Training load calculator used to estimate workload from session duration and RPE.*
+<p align="center">
+<em>Figure 2. Training load calculator used to estimate workload from session duration and RPE</em>
+</p>
 
 The calculator above shows how training load is generated from session inputs. It allows users to estimate workload and classify session intensity based on duration and RPE.
 
