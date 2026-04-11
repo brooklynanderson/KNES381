@@ -4,7 +4,7 @@ A practical athlete monitoring system designed to support training decision-maki
 ---
 ## Navigation
 
-[Overview](#system-overview) | [Users](#intended-users) | [Metrics](#performance-metrics) | [Dashboard](#performance-dashboard) | [Calculator](#training-load-calculator) | [Dartfish](#dartfish-movement-analysis) | [Insights](#key-insights) | [Resources](#resources)
+[Overview](#system-overview) | [Users](#intended-users) | [Metrics](#performance-metrics) | [Dashboard](#performance-dashboard) | [Calculator](#training-load-calculator) | [Dartfish](#dartfish-movement-analysis) | [Resources](#resources)
 
 ---
 
