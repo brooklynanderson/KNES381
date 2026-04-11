@@ -104,30 +104,24 @@ The calculator above shows how training load is generated from session inputs. I
 ---
 
 ## Dartfish Movement Analysis
-Dartfish provides visual analysis of how movement mechanics contribute to athlete performance.
+Dartfish provides visual analysis of movement, allowing athletes to assess technique, correct errors, and improve performance. It can be applied to a variety of movements while helping relate movement mechanics to training load, fatigue, and injury risk.
 
-### Example: Breakdown of Sprint Acceleration
+### Example: Deadlift Analysis
 
 #### Phase 1: Set up
 
-This phase shows..
+![Deadlift Setup](videoframe1.png)
+
+In the setup phase, the athlete demonstrates a hip hinge position with a neutral spine and appropriate knee angle of approximately 55°. This position allows for effective force production while maintaining proper alignment. Proper setup is critical for reducing injury risk and preparing the body for high-intensity effort.
 
 #### Phase 2: Force Production
 
-This phase shows...
-
-#### Phase 3
 
 This phase shows...
 
-Coming soon...
+![Deadlift Lift](videoframe2.png)
 
----
-
-## Key Insights
-- Game and conditioning sessions produce the highest training loads
-- Recovery sessions show the lowest workload and fatigue levels
-- Higher training loads are associated with increased fatigue and injury
+During the lifting phase, the athlete generates force through coordinated extension at the hip and knee. The bar path remains vertical and close to the body, which improves efficiency and reduces unnecessary strain. This phase requires high muscular effort and contributes to increased RPE, leading to higher training load values.
 
 ---
 
@@ -136,6 +130,6 @@ Coming soon...
 [Download the Excel Project](trainingloadanalysis.xlsx)
 
 
-### About This Project
+#### About This Project
 
 This project was developed as part of the UofC KNES381 course and demonstrates practical skills in athlete monitoring, data analysis, and performance assessment using Excel and Dartfish.
