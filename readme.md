@@ -3,7 +3,7 @@ A practical athlete monitoring system designed to support training decision-maki
 
 ---
 
-## What's Included
+## What's Included?
 
 This athlete monitoring system can be used by coaches and athletes to track workload, performance and recovery.
 - Training load analysis using duration and RPE
@@ -24,7 +24,7 @@ This system is designed for:
 
 ---
 
-## Performance Metrics
+## What Performance Metrics Are Being Measured?
 
 ### Training Load (AU)
 Training load was calculated using the session RPE method:
@@ -41,22 +41,6 @@ Used to identify potential increases in risk with higher workloads
 Categorizes training load as low, moderate or high.
 
 ---
-
-## Athlete Data Tracking
-
-The dataset includes:
-
-- Athlete (Athlete 1 and Athlete 2)
-- Session Type (Skate, Lift, Game, Conditioning, Recovery)
-- Duration (Minutes)
-- RPE (Rate of Perceived Exertion)
-- Recovery (Hours)
-- Fatigue Level (%)
-- Injury Risk (%)
-- Load Category (Low, Moderate, High)
-
----
-
 ## Athlete Monitoring System
 
 The Excel workbook functions as a dynamic athlete monitoring system:
@@ -73,6 +57,20 @@ The Excel workbook functions as a dynamic athlete monitoring system:
 This allows for quick assessment of how workload impacts fatigue and injury risk.
 
 ---
+
+## What Data is Tracked?
+
+The dataset includes:
+
+- Athlete (Athlete 1 and Athlete 2)
+- Session Type (Skate, Lift, Game, Conditioning, Recovery)
+- Duration (Minutes)
+- RPE (Rate of Perceived Exertion)
+- Recovery (Hours)
+- Fatigue Level (%)
+- Injury Risk (%)
+- Load Category (Low, Moderate, High)
+
 
 ## Performance Dashboard
 
