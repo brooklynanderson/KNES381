@@ -59,7 +59,7 @@ The dataset includes:
 
 ## Athlete Monitoring System
 
-The excel workbook functions as a dynamic athlete monitoring system:
+The Excel workbook functions as a dynamic athlete monitoring system:
 
 - Training Load is calculated using a formula that multiplies duration and RPE
 - Load Category was created using an IF function:
@@ -76,7 +76,7 @@ This allows for quick assessment of how workload impacts fatigue and injury risk
 
 ## Performance Dashboard
 
-The dashbord can provide a visual summary of:
+The dashboard can provide a visual summary of:
 - Average Training Load (AU)
 - Average Fatigue Level (%)
 - Average Injury Risk (%)
