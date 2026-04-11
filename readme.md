@@ -3,7 +3,7 @@ A practical athlete monitoring system designed to support training decision-maki
 
 ---
 
-## What's Included?
+## System Overview
 
 This athlete monitoring system can be used by coaches and athletes to track workload, performance and recovery.
 - Training load analysis using duration and RPE
@@ -14,7 +14,7 @@ This athlete monitoring system can be used by coaches and athletes to track work
 
 ---
 
-## Who Can Use This?
+## Intended Users
 
 This system is designed for:
 - Coaches monitoring athlete's workload
@@ -41,7 +41,7 @@ Used to identify potential increases in risk with higher workloads
 Categorizes training load as low, moderate or high.
 
 ---
-## The System
+## System Functionality
 
 The Excel workbook functions as a dynamic athlete monitoring system:
 
