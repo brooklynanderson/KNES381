@@ -76,14 +76,16 @@ This allows for quick assessment of how workload impacts fatigue and injury risk
 
 ## Performance Dashboard
 
-The dashbord provides a visual summary of:
+The dashbord can provide a visual summary of:
 - Average Training Load (AU)
 - Average Fatigue Level (%)
 - Average Injury Risk (%)
 
-These values update dynamically based on selected filters.
+Sneak peak of the dashboard:
 
 ![Dashboard](dashboard.png)
+
+The dashboard above is generated from a PivotTable and updates automatically when the data or slicers are changed in the Excel Workbook.
 
 ---
 
