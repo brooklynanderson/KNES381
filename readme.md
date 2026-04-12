@@ -10,6 +10,8 @@ Track performance • Analyze workload • Improve movement quality
 
 <br>
 
+---
+
 ## Navigation
 
 <p align="center">
@@ -38,11 +40,18 @@ Track performance • Analyze workload • Improve movement quality
 
 ## Intended Users
 
-This system is designed for:
-- Coaches monitoring athlete workload
-- Athletes tracking training intensity
-- S&C professionals
-- Sport Science Researchers interested in performance analysis
+<div style="display: flex; gap: 20px;">
+
+<div style="flex: 1;">
+<ul>
+<li>Coaches</li>
+<li>Athletes</li>
+<li>S&C professionals</li>
+<li>Sport science professionals</li>
+<ul>
+</div>
+
+</div>
 
 ---
 
@@ -98,40 +107,47 @@ This allows for quick assessment of how workload impacts fatigue and injury risk
 
 ---
 
+<br>
+
+<h2 align="center">Athlete Monitoring in Practice</h2>
+
+<br>
+
+---
+
 ## Performance Dashboard
 
-The dashboard can provide a visual summary of:
-- Average Training Load (AU)
-- Average Fatigue Level (%)
-- Average Injury Risk (%)
+<div style="display: flex; align-items: center; gap: 30px;">
 
-<p align="center">
-<img src="dashboard.png" width="600">
+<div style="fle: 1;">
+<p>
+This dashboard provides a visual summary of training load, fatigue and injury risk across session types. It updates automatically based on filters and input data.
 </p>
+</div>
 
-<p align="center">
-<em>Figure 1. Interactive dashboard example displaying average training load by session type between Athlete 1 and Athlete 2.</em>
-</p>
+<div style="flex: 1;">
+<img src="dashboard.png" width="100%">
+</div>
 
-The dashboard above is generated from a PivotTable and updates automatically when the data or slicers are changed in the Excel Workbook.
+</div>
 
 ---
 
 ## Training Load Calculator
 
-An interactive calculator allows users to estimate training load for new sessions.
-- Input: duration and RPE
-- Output: training load and load category
+<div style="display: flex; align-items: center; gap: 30px;">
 
-<p align="center">
-<img src="TrainingLoadCalculator.png" width="500">
+<div style="flex: 1;">
+<img src="TrainingLoadCalculator.png" width="100%">
+</div>
+
+<div style="flex: 1;">
+<p>
+This tool allows users to estimate training load based on session duration and RPE, helping plan training intensity before sessions occur.
 </p>
+</div>
 
-<p align="center">
-<em>Figure 2. Training load calculator used to estimate workload from session duration and RPE</em>
-</p>
-
-The calculator above shows how training load is generated from session inputs. It allows users to estimate workload and classify session intensity based on duration and RPE.
+</div>
 
 ---
 
@@ -139,31 +155,27 @@ The calculator above shows how training load is generated from session inputs. I
 While the Excel system tracks workload and performance data, movement analysis provides additional insight into how technique influences these outcomes.
 Dartfish provides visual analysis of movement, allowing athletes to assess technique, correct errors, and improve performance. It can be applied to a variety of movements while helping relate movement mechanics to training load, fatigue, and injury risk.
 
+---
+
 ### Example: Deadlift Analysis
 
-#### Set Up Analysis
+<div style="display: flex; gap: 20px;">
 
-<p align="center">
-<img src="videoframe1.png" width="400">
+<div style="flex: 1; text-align: center;">
+<img src="videoframe1.png" width="100%">
+</p><em>Figure 1. Set-up position showing joint angle and starting posture. </em></p>
+</div>
+
+<div style="flex: 1; text-align: center;">
+<img src="videoframe2.png" width="100%">
+<p><em>Figure 2. Bar path illustrating efficient movement during lifting.</em></p>
+</div>
+
+</div>
+
+<p>
+Proper setep ensures effective force production while minimizing injury risk. A vertical bar path imprpves efficiency and increases force output, contributing to changes in RPE and overall training load.
 </p>
-
-<p align="center">
-<em>Figure 3. Set-up position showing joint angle and starting posture.</em>
-</p>
-
-In the setup phase, the athlete demonstrates a hip hinge position with a neutral spine and appropriate knee angle of approximately 55°. This position allows for effective force production while maintaining proper alignment. Proper setup is critical for reducing injury risk and preparing the body for high-intensity effort.
-
-#### Bar Path Analysis
-
-<p align="center">
-<img src="videoframe2.png" width="400">
-</p>
-
-<p align="center">
-<em>Figure 4. Bar path analysis illustrating movement efficiency during force production</em>
-</p>
-
-During the lifting phase, the athlete generates force through coordinated extension at the hip and knee. The bar path remains vertical and close to the body, which improves efficiency and reduces unnecessary strain. This phase requires high muscular effort and contributes to increased RPE, leading to higher training load values.
 
 ---
 
