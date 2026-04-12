@@ -2,7 +2,6 @@
 <strong style="font-size:20px;">
 Athlete Monitoring System for Training Load, Recovery & Movement Analysis
 <strong>
-</p>
 
 <p align="center">
 Track performance • Analyze workload • Improve movement quality
@@ -10,7 +9,7 @@ Track performance • Analyze workload • Improve movement quality
 
 <br>
 
-## Navigation
+Navigation
 
 <p align="center">
 <a href="#system-overview"><strong>Overview</strong></a> ·
