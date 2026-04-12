@@ -126,7 +126,6 @@ This dashboard provides a visual summary of training load, fatigue and injury ri
 
 </div>
 
-
 Training Load Calculator
 
 <div style="display: flex; align-items: center; gap: 30px;">
@@ -143,11 +142,9 @@ This tool allows users to estimate training load based on session duration and R
 
 </div>
 
-
 Dartfish Movement Analysis
-While the Excel system tracks workload and performance data, movement analysis provides additional insight into how technique influences these outcomes.
-Dartfish provides visual analysis of movement, allowing athletes to assess technique, correct errors, and improve performance. It can be applied to a variety of movements while helping relate movement mechanics to training load, fatigue, and injury risk.
 
+While the Excel system tracks workload and performance data, movement analysis provides additional insight into how technique influences these outcomes. Dartfish provides visual analysis of movement, allowing athletes to assess technique, correct errors, and improve performance. It can be applied to a variety of movements while helping relate movement mechanics to training load, fatigue, and injury risk.
 
 Example: Deadlift Analysis
 
@@ -169,11 +166,9 @@ Example: Deadlift Analysis
 Proper setep ensures effective force production while minimizing injury risk. A vertical bar path imprpves efficiency and increases force output, contributing to changes in RPE and overall training load.
 </p>
 
-
 Resources
 
 [Download the Excel Project](trainingloadanalysis.xlsx)
-
 
 About This Project
 
