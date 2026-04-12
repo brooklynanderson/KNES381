@@ -137,15 +137,25 @@ Dartfish provides visual analysis of movement, allowing athletes to assess techn
 
 #### Set Up Analysis
 
-![Deadlift Setup](videoframe1.png)
-*Figure 3. Steup position showing joint angle and starting posture.*
+<p align="center">
+<img src="video-frame1.png" width="400">
+</p>
+
+<p align="center">
+<em>Figure 3. Steup position showing joint angle and starting posture.</em>
+</p>
 
 In the setup phase, the athlete demonstrates a hip hinge position with a neutral spine and appropriate knee angle of approximately 55°. This position allows for effective force production while maintaining proper alignment. Proper setup is critical for reducing injury risk and preparing the body for high-intensity effort.
 
 #### Bar Path Analysis
 
-![Deadlift Lift](videoframe2.png)
-*Figure 4. Bar path analysis illustrating movement efficiency during force production.*
+<p align="center">
+<img src="video-frame2.png" width="400">
+</p>
+
+<p align="center">
+<em>Figure 4. Bar path analysis illustrating movement efficiency during force production</em>
+</p>
 
 During the lifting phase, the athlete generates force through coordinated extension at the hip and knee. The bar path remains vertical and close to the body, which improves efficiency and reduces unnecessary strain. This phase requires high muscular effort and contributes to increased RPE, leading to higher training load values.
 
