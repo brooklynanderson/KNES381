@@ -15,26 +15,42 @@ Track performance • Analyze workload • Improve movement quality
 ## Navigation
 
 <p align="center">
-<a href="#system-overview">Overview</a> | 
-<a href="#intended-users">Users</a> | 
-<a href="#performance-metrics">Metrics</a> | 
-<a href="#performance-dashboard">Dashboard</a> | 
-<a href="#training-load-calculator">Calculator</a> | 
-<a href="#dartfish-movement-analysis">Dartfish</a> | 
-<a href="#resources">Resources</a> |
+<a href="#system-overview"><strong>Overview</strong></a> ·
+<a href="#intended-users"><strong>Users</strong></a> ·
+<a href="#performance-metrics"><strong>Metrics</strong></a> ·
+<a href="#performance-dashboard"><strong>Dashboard</strong></a> ·
+<a href="#training-load-calculator"><strong>Calculator</strong></a> ·
+<a href="#dartfish-movement-analysis"><strong>Dartfish</strong></a> ·
+<a href="#resources"><strong>Resources</strong></a>
 </p>
 
 ---
 
 ## System Overview
 
-| Component | Purpose |
-|---|---|
-| Training Load Analysis | Tracks workload using duration and RPE |
-| Recovery Monitoring | Identifies fatigue and injury risk trends |
-| Performance Dashboard | Summarizes athlete condition visually |
-| Training Load Calculator | Estimates session demand before training |
-| Dartfish Movement Analysis | Assesses movement quality |
+<div style="display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:16px;">
+
+<div style="border:1px solid #e5e7eb; padding:18px; border-radius:12px;">
+<h4> Training Load Analysis</h4>
+<p>Tracks workload using duration and RPE.</p>
+</div>
+
+<div style="border:1px solid #e5e7eb; padding:18px; border-radius:12px;">
+<h4> Recovery Monitoring</h4>
+<p>Identifies fatigue and injury risk trends.</p>
+</div>
+
+<div style="border:1px solid #e5e7eb; padding:18px; border-radius:12px;">
+<h4> Session Planning Tool</h4>
+<p>Estimates workload before training begins.</p>
+</div>
+
+<div style="border:1px solid #e5e7eb; padding:18px; border-radius:12px;">
+<h4> Movement Analysis</h4>
+<p>Assesses movement quality using Dartfish.</p>
+</div>
+
+</div>
 
 ---
 
@@ -112,8 +128,6 @@ This allows for quick assessment of how workload impacts fatigue and injury risk
 <h2 align="center">Athlete Monitoring in Practice</h2>
 
 <br>
-
----
 
 ## Performance Dashboard
 
