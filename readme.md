@@ -49,15 +49,12 @@ System Overview
 
 Intended Users
 
-<div style="display: flex; gap: 20px;">
+This system is designed for:
 
-<div style="flex: 1;">
-<ul>
-<li>Coaches</li>
-<li>Athletes</li>
-<li>S&C professionals</li>
-<li>Sport science professionals</li>
-<ul>
+- Coaches monitoring athlete workload
+- Athletes tracking training intensity
+- Stength & Conditioning professionals
+- Sport Science practitioners
 
 Performance Metrics
 
