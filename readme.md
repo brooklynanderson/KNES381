@@ -138,11 +138,11 @@ Dartfish provides visual analysis of movement, allowing athletes to assess techn
 #### Set Up Analysis
 
 <p align="center">
-<img src="video-frame1.png" width="400">
+<img src="videoframe1.png" width="400">
 </p>
 
 <p align="center">
-<em>Figure 3. Steup position showing joint angle and starting posture.</em>
+<em>Figure 3. Set-up position showing joint angle and starting posture.</em>
 </p>
 
 In the setup phase, the athlete demonstrates a hip hinge position with a neutral spine and appropriate knee angle of approximately 55°. This position allows for effective force production while maintaining proper alignment. Proper setup is critical for reducing injury risk and preparing the body for high-intensity effort.
@@ -150,7 +150,7 @@ In the setup phase, the athlete demonstrates a hip hinge position with a neutral
 #### Bar Path Analysis
 
 <p align="center">
-<img src="video-frame2.png" width="400">
+<img src="videoframe2.png" width="400">
 </p>
 
 <p align="center">
