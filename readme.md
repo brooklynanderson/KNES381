@@ -21,7 +21,7 @@ Navigation
 <a href="#resources"><strong>Resources</strong></a>
 </p>
 
-## System Overview
+System Overview
 
 <div style="display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:16px;">
 
@@ -47,7 +47,7 @@ Navigation
 
 </div>
 
-## Intended Users
+Intended Users
 
 <div style="display: flex; gap: 20px;">
 
@@ -58,11 +58,8 @@ Navigation
 <li>S&C professionals</li>
 <li>Sport science professionals</li>
 <ul>
-</div>
 
-</div>
-
-## Performance Metrics
+Performance Metrics
 
 These metrics provide the foundation for monitoring athlete workload.
 
@@ -81,7 +78,7 @@ Used to identify potential increases in risk with higher workloads
 Categorizes training load as low, moderate or high.
 
 
-## Athlete Data Tracking
+Athlete Data Tracking
 
 The dataset includes:
 
@@ -95,7 +92,7 @@ The dataset includes:
 - Load Category (Low, Moderate, High)
 
 
-## System Functionality
+System Functionality
 
 The Excel workbook functions as a dynamic athlete monitoring system:
 
@@ -116,7 +113,7 @@ This allows for quick assessment of how workload impacts fatigue and injury risk
 
 <br>
 
-## Performance Dashboard
+Performance Dashboard
 
 <div style="display: flex; align-items: center; gap: 30px;">
 
@@ -133,7 +130,7 @@ This dashboard provides a visual summary of training load, fatigue and injury ri
 </div>
 
 
-## Training Load Calculator
+Training Load Calculator
 
 <div style="display: flex; align-items: center; gap: 30px;">
 
@@ -150,12 +147,12 @@ This tool allows users to estimate training load based on session duration and R
 </div>
 
 
-## Dartfish Movement Analysis
+Dartfish Movement Analysis
 While the Excel system tracks workload and performance data, movement analysis provides additional insight into how technique influences these outcomes.
 Dartfish provides visual analysis of movement, allowing athletes to assess technique, correct errors, and improve performance. It can be applied to a variety of movements while helping relate movement mechanics to training load, fatigue, and injury risk.
 
 
-### Example: Deadlift Analysis
+Example: Deadlift Analysis
 
 <div style="display: flex; gap: 20px;">
 
@@ -176,11 +173,11 @@ Proper setep ensures effective force production while minimizing injury risk. A 
 </p>
 
 
-## Resources
+Resources
 
 [Download the Excel Project](trainingloadanalysis.xlsx)
 
 
-#### About This Project
+About This Project
 
 This project was developed as part of the UofC KNES381 course and demonstrates practical skills in athlete monitoring, data analysis, and performance assessment using Excel and Dartfish.
