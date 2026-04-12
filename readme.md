@@ -10,8 +10,6 @@ Track performance • Analyze workload • Improve movement quality
 
 <br>
 
----
-
 ## Navigation
 
 <p align="center">
@@ -23,8 +21,6 @@ Track performance • Analyze workload • Improve movement quality
 <a href="#dartfish-movement-analysis"><strong>Dartfish</strong></a> ·
 <a href="#resources"><strong>Resources</strong></a>
 </p>
-
----
 
 ## System Overview
 
@@ -52,7 +48,6 @@ Track performance • Analyze workload • Improve movement quality
 
 </div>
 
----
 
 ## Intended Users
 
@@ -69,7 +64,6 @@ Track performance • Analyze workload • Improve movement quality
 
 </div>
 
----
 
 ## Performance Metrics
 
@@ -89,7 +83,6 @@ Used to identify potential increases in risk with higher workloads
 ### Load Category
 Categorizes training load as low, moderate or high.
 
----
 
 ## Athlete Data Tracking
 
@@ -104,7 +97,6 @@ The dataset includes:
 - Injury Risk (%)
 - Load Category (Low, Moderate, High)
 
----
 
 ## System Functionality
 
@@ -120,8 +112,6 @@ The Excel workbook functions as a dynamic athlete monitoring system:
 - Slicers allow interactive filtering by athlete and session type
 
 This allows for quick assessment of how workload impacts fatigue and injury risk.
-
----
 
 <br>
 
@@ -145,7 +135,6 @@ This dashboard provides a visual summary of training load, fatigue and injury ri
 
 </div>
 
----
 
 ## Training Load Calculator
 
@@ -163,13 +152,11 @@ This tool allows users to estimate training load based on session duration and R
 
 </div>
 
----
 
 ## Dartfish Movement Analysis
 While the Excel system tracks workload and performance data, movement analysis provides additional insight into how technique influences these outcomes.
 Dartfish provides visual analysis of movement, allowing athletes to assess technique, correct errors, and improve performance. It can be applied to a variety of movements while helping relate movement mechanics to training load, fatigue, and injury risk.
 
----
 
 ### Example: Deadlift Analysis
 
@@ -191,13 +178,11 @@ Dartfish provides visual analysis of movement, allowing athletes to assess techn
 Proper setep ensures effective force production while minimizing injury risk. A vertical bar path imprpves efficiency and increases force output, contributing to changes in RPE and overall training load.
 </p>
 
----
 
 ## Resources
 
 [Download the Excel Project](trainingloadanalysis.xlsx)
 
----
 
 #### About This Project
 
