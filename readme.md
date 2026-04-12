@@ -48,7 +48,6 @@ Track performance • Analyze workload • Improve movement quality
 
 </div>
 
-
 ## Intended Users
 
 <div style="display: flex; gap: 20px;">
@@ -63,7 +62,6 @@ Track performance • Analyze workload • Improve movement quality
 </div>
 
 </div>
-
 
 ## Performance Metrics
 
