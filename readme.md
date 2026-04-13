@@ -26,27 +26,12 @@ Track performance • Analyze workload • Improve movement quality
 
 ## System Overview
 
-<div style="display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:16px;">
-
-<div style="border:1px solid #e5e7eb; padding:18px; border-radius:12px;">
-<h4>Training Load Analysis</h4>
-<p>Tracks workload using duration and RPE.</p>
-</div>
-
-<div style="border:1px solid #e5e7eb; padding:18px; border-radius:12px;">
-<h4>Recovery Monitoring</h4>
-<p>Identifies fatigue and injury risk trends.</p>
-</div>
-
-<div style="border:1px solid #e5e7eb; padding:18px; border-radius:12px;">
-<h4>Session Planning Tool</h4>
-<p>Estimates workload before training begins.</p>
-</div>
-
-<div style="border:1px solid #e5e7eb; padding:18px; border-radius:12px;">
-<h4>Movement Analysis</h4>
-<p>Assesses movement quality using Dartfish.</p>
-</div>
+| Component | Purpose |
+|---|---|
+| Training Load Analysis | Tracks workload using duration and RPE |
+| Recovery Monitoring | Identifies fatigue and injury risk trends |
+| Session Planning Tool | Estimates workload before training begins |
+| Movement Analysis | Assesses movement quality using Dartfish |
 
 ---
 
