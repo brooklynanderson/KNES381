@@ -1,7 +1,7 @@
 <p align="center">
 <strong style="font-size:20px;">
 Athlete Monitoring System for Training Load, Recovery & Movement Analysis
-<strong>
+</strong>
 </p>
 
 <p align="center">
