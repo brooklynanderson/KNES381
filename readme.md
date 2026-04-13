@@ -60,11 +60,11 @@ This value is expressed in arbitrary units (AU), meaning it is used as a relativ
 
 ### Fatigue Level (%)
 
-Used to estimate recovery and readiness
+Used to estimate recovery and readiness.
 
 ### Injury Risk (%)
 
-Used to identify potential increases in risk with higher workloads
+Used to identify potential increases in risk with higher workloads.
 
 ### Load Category
 
@@ -157,7 +157,7 @@ While the Excel system tracks workload and performance data, movement analysis p
 </div>
 
 <p>
-Proper setep ensures effective force production while minimizing injury risk. A vertical bar path improves efficiency and increases force output, contributing to changes in RPE and overall training load.
+Proper set-up ensures effective force production while minimizing injury risk. A vertical bar path improves efficiency and increases force output, contributing to changes in RPE and overall training load.
 </p>
 
 ---
