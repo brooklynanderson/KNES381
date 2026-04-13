@@ -134,7 +134,35 @@ This tool allows users to estimate training load based on session duration and R
 
 </div>
 
----
+## interactive Training Load Calculator
+<p>This calculator uses conditional rules and user input. Enter values to calculate training load.</p>
+
+<input id="duration" type="number" placeholder="Duration (mins)" style="margin:5px;">
+<input id="rpe" type="number" placeholder="RPE (1-10)" style="margin:5px;">
+<button onclick="calculateLoad()" style="margin:5px;">Calculate</button>
+
+<p id="result"></p>
+
+<script>
+function calculateLoad() {
+  var duration = document.getElementByID("duration").value;
+  var rpe = document.getElementByID("rpe").value;
+
+  var load = duration * rpe;
+  var category = "";
+
+  if (load < 300) {
+    category = "Low";
+  } else if (load <= 600) {
+    category = "Moderate";
+  } else {
+    category = "High";
+  }
+
+  document.getElementByID("result").innerHTML =
+    "Training Load: " + load + " AU (" + category + ")";
+}
+</script>
 
 ## Dartfish Movement Analysis
 
