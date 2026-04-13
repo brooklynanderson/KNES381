@@ -146,7 +146,7 @@ While the Excel system tracks workload and performance data, movement analysis p
 
 <div style="flex: 1; text-align: center;">
 <img src="videoframe1.png" width="100%">
-</p><em>Figure 1. Set-up position showing joint angle and starting posture. </em></p>
+<p><em>Figure 1. Set-up position showing joint angle and starting posture. </em></p>
 </div>
 
 <div style="flex: 1; text-align: center;">
