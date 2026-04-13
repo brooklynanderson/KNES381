@@ -48,8 +48,6 @@ Track performance • Analyze workload • Improve movement quality
 <p>Assesses movement quality using Dartfish.</p>
 </div>
 
-</div>
-
 ---
 
 ## Intended Users
