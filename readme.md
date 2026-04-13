@@ -29,23 +29,25 @@ Track performance • Analyze workload • Improve movement quality
 <div style="display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:16px;">
 
 <div style="border:1px solid #e5e7eb; padding:18px; border-radius:12px;">
-<h4> Training Load Analysis</h4>
+<h4>Training Load Analysis</h4>
 <p>Tracks workload using duration and RPE.</p>
 </div>
 
 <div style="border:1px solid #e5e7eb; padding:18px; border-radius:12px;">
-<h4> Recovery Monitoring</h4>
+<h4>Recovery Monitoring</h4>
 <p>Identifies fatigue and injury risk trends.</p>
 </div>
 
 <div style="border:1px solid #e5e7eb; padding:18px; border-radius:12px;">
-<h4> Session Planning Tool</h4>
+<h4>Session Planning Tool</h4>
 <p>Estimates workload before training begins.</p>
 </div>
 
 <div style="border:1px solid #e5e7eb; padding:18px; border-radius:12px;">
-<h4> Movement Analysis</h4>
+<h4>Movement Analysis</h4>
 <p>Assesses movement quality using Dartfish.</p>
+</div>
+
 </div>
 
 ---
@@ -127,7 +129,7 @@ This allows for quick assessment of how workload impacts fatigue and injury risk
 
 <div style="display: flex; align-items: center; gap: 30px;">
 
-<div style="fle: 1;">
+<div style="flex: 1;">
 <p>
 This dashboard provides a visual summary of training load, fatigue and injury risk across session types. It updates automatically based on filters and input data.
 </p>
