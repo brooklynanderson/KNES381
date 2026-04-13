@@ -2,6 +2,7 @@
 <strong style="font-size:20px;">
 Athlete Monitoring System for Training Load, Recovery & Movement Analysis
 <strong>
+</p>
 
 <p align="center">
 Track performance • Analyze workload • Improve movement quality
@@ -9,7 +10,7 @@ Track performance • Analyze workload • Improve movement quality
 
 <br>
 
-Navigation
+## Navigation
 
 <p align="center">
 <a href="#system-overview"><strong>Overview</strong></a> ·
@@ -21,7 +22,9 @@ Navigation
 <a href="#resources"><strong>Resources</strong></a>
 </p>
 
-System Overview
+---
+
+## System Overview
 
 <div style="display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:16px;">
 
@@ -47,7 +50,9 @@ System Overview
 
 </div>
 
-Intended Users
+---
+
+## Intended Users
 
 This system is designed for:
 
@@ -56,11 +61,14 @@ This system is designed for:
 - Stength & Conditioning professionals
 - Sport Science practitioners
 
-Performance Metrics
+---
+
+## Performance Metrics
 
 These metrics provide the foundation for monitoring athlete workload.
 
 ### Training Load (AU)
+
 Training load was calculated using the session RPE method:
 
 **Training Load = Duration X RPE**
@@ -68,14 +76,20 @@ Training load was calculated using the session RPE method:
 This value is expressed in arbitrary units (AU), meaning it is used as a relative measure of workload rather than a direct physical quantity.
 
 ### Fatigue Level (%)
+
 Used to estimate recovery and readiness
+
 ### Injury Risk (%)
+
 Used to identify potential increases in risk with higher workloads
+
 ### Load Category
+
 Categorizes training load as low, moderate or high.
 
+---
 
-Athlete Data Tracking
+## Athlete Data Tracking
 
 The dataset includes:
 
@@ -88,8 +102,9 @@ The dataset includes:
 - Injury Risk (%)
 - Load Category (Low, Moderate, High)
 
+---
 
-System Functionality
+## System Functionality
 
 The Excel workbook functions as a dynamic athlete monitoring system:
 
@@ -110,7 +125,7 @@ This allows for quick assessment of how workload impacts fatigue and injury risk
 
 <br>
 
-Performance Dashboard
+## Performance Dashboard
 
 <div style="display: flex; align-items: center; gap: 30px;">
 
@@ -125,6 +140,8 @@ This dashboard provides a visual summary of training load, fatigue and injury ri
 </div>
 
 </div>
+
+---
 
 Training Load Calculator
 
@@ -142,11 +159,13 @@ This tool allows users to estimate training load based on session duration and R
 
 </div>
 
-Dartfish Movement Analysis
+---
+
+## Dartfish Movement Analysis
 
 While the Excel system tracks workload and performance data, movement analysis provides additional insight into how technique influences these outcomes. Dartfish provides visual analysis of movement, allowing athletes to assess technique, correct errors, and improve performance. It can be applied to a variety of movements while helping relate movement mechanics to training load, fatigue, and injury risk.
 
-Example: Deadlift Analysis
+#### Example: Deadlift Analysis
 
 <div style="display: flex; gap: 20px;">
 
@@ -166,10 +185,12 @@ Example: Deadlift Analysis
 Proper setep ensures effective force production while minimizing injury risk. A vertical bar path imprpves efficiency and increases force output, contributing to changes in RPE and overall training load.
 </p>
 
-Resources
+---
+
+## Resources
 
 [Download the Excel Project](trainingloadanalysis.xlsx)
 
-About This Project
+### About This Project
 
 This project was developed as part of the UofC KNES381 course and demonstrates practical skills in athlete monitoring, data analysis, and performance assessment using Excel and Dartfish.
