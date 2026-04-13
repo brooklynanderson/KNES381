@@ -8,18 +8,18 @@ Athlete Monitoring System for Training Load, Recovery & Movement Analysis
 Track performance • Analyze workload • Improve movement quality
 </p>
 
-<br>
+---
 
 ## Navigation
 
 <p align="center">
-<a href="#system-overview"><strong>Overview</strong></a> ·
-<a href="#intended-users"><strong>Users</strong></a> ·
-<a href="#performance-metrics"><strong>Metrics</strong></a> ·
-<a href="#performance-dashboard"><strong>Dashboard</strong></a> ·
-<a href="#training-load-calculator"><strong>Calculator</strong></a> ·
-<a href="#dartfish-movement-analysis"><strong>Dartfish</strong></a> ·
-<a href="#resources"><strong>Resources</strong></a>
+  <a href="#system-overview"><strong>Overview</strong></a> ·
+  <a href="#intended-users"><strong>Users</strong></a> ·
+  <a href="#performance-metrics"><strong>Metrics</strong></a> ·
+  <a href="#performance-dashboard"><strong>Dashboard</strong></a> ·
+  <a href="#training-load-calculator"><strong>Calculator</strong></a> ·
+  <a href="#dartfish-movement-analysis"><strong>Dartfish</strong></a> ·
+  <a href="#resources"><strong>Resources</strong></a>
 </p>
 
 ---
@@ -46,8 +46,6 @@ Track performance • Analyze workload • Improve movement quality
 <div style="border:1px solid #e5e7eb; padding:18px; border-radius:12px;">
 <h4>Movement Analysis</h4>
 <p>Assesses movement quality using Dartfish.</p>
-</div>
-
 </div>
 
 ---
@@ -123,27 +121,19 @@ This allows for quick assessment of how workload impacts fatigue and injury risk
 
 <h2 align="center">Athlete Monitoring in Practice</h2>
 
-<br>
+---
 
 ## Performance Dashboard
 
-<div style="display: flex; align-items: center; gap: 30px;">
-
-<div style="flex: 1;">
-<p>
 This dashboard provides a visual summary of training load, fatigue and injury risk across session types. It updates automatically based on filters and input data.
+
+<p align="center">
+ <img src="dashboard.png" width="100%"> 
 </p>
-</div>
-
-<div style="flex: 1;">
-<img src="dashboard.png" width="100%">
-</div>
-
-</div>
 
 ---
 
-Training Load Calculator
+## Training Load Calculator
 
 <div style="display: flex; align-items: center; gap: 30px;">
 
