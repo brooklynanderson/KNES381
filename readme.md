@@ -157,7 +157,7 @@ While the Excel system tracks workload and performance data, movement analysis p
 </div>
 
 <p>
-Proper setep ensures effective force production while minimizing injury risk. A vertical bar path imprpves efficiency and increases force output, contributing to changes in RPE and overall training load.
+Proper setep ensures effective force production while minimizing injury risk. A vertical bar path improves efficiency and increases force output, contributing to changes in RPE and overall training load.
 </p>
 
 ---
