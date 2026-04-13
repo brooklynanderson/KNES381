@@ -41,8 +41,8 @@ This system is designed for:
 
 - Coaches monitoring athlete workload
 - Athletes tracking training intensity
-- Stength & Conditioning professionals
-- Sport Science practitioners
+- Strength & Conditioning professionals
+- Sport science practitioners
 
 ---
 
